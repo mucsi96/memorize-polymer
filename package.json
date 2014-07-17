@@ -16,6 +16,6 @@
     "cucumber": "^0.4.1",
     "chai": "^1.9.1",
     "chai-as-promised": "^4.1.1",
-    "protractor-helpers": "0.0.1"
+    "protractor-helpers": "^0.0.3"
   }
 }
