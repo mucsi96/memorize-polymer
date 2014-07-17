@@ -1,0 +1,11 @@
+{
+  "name": "memorize-polymer-client",
+  "version": "0.0.0",
+  "authors": [
+    "Igor Mucsicska <mucsi_96@yahoo.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.3.4"
+  }
+}
